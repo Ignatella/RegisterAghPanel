@@ -2,8 +2,8 @@ package main
 
 import (
 	"flag"
-	"github.com/Ignatella/RegisterAghPanel/html"
-	"github.com/Ignatella/RegisterAghPanel/request"
+	"github.com/Ignatella/RegisterAghPanel/internal/html"
+	"github.com/Ignatella/RegisterAghPanel/internal/request"
 	"log"
 	"net/http"
 	"net/http/cookiejar"
